@@ -15,3 +15,7 @@ end
 def get_the_min(groceries)
   groceries.min  
 end
+
+def get_the_values(groceries)
+  groceries.values  
+end
