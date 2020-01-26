@@ -11,6 +11,6 @@ require 'pry'
 def get_the_keys(groceries)
   groceries.keys 
 end
-def get_the_keys(groceries)
+def get_the_min(groceries)
   groceries.min  
 end
